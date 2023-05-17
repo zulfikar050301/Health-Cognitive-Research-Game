@@ -1,0 +1,52 @@
+{
+    "name": "Tetro",
+    "maps": [
+        {
+            "name": "Tetromino",
+            "id": "0450de64-5776-4ce2-a227-94e2273a1de4",
+            "actions": [
+                {
+                    "name": "left",
+                    "type": "Button",
+                    "id": "38098472-9f27-4580-adf1-d503cabff819",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Rotate",
+                    "type": "Button",
+                    "id": "f560ec87-13f4-491b-898a-320b609b266f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "65b7bcb6-b7ce-45b1-928e-3961e7af3cea",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "daa2ac6c-fa0c-4905-ad7d-271d1e2d08cb",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Rotate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

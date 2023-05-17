@@ -1,0 +1,71 @@
+{
+    "name": "TetroMove",
+    "maps": [
+        {
+            "name": "Tetris",
+            "id": "d294d62e-1780-4491-99e5-c79e8deccfb2",
+            "actions": [
+                {
+                    "name": "Left",
+                    "type": "Button",
+                    "id": "52f5edce-b9ee-4197-beda-4ad3eb1417c5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Right",
+                    "type": "Button",
+                    "id": "ed63f2ea-822d-4c45-9136-22e41468c52e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "drop",
+                    "type": "Button",
+                    "id": "d482405f-6acb-47a6-9706-88c74ea91e81",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8932aa65-2481-4442-8ea1-6a8d1e6fc66b",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a52b477d-8936-4a3f-b930-9bcfffda2491",
+                    "path": "<Keyboard>/d",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8d4246cc-b515-4d75-84a1-8a7f0b2f53e7",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "drop",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

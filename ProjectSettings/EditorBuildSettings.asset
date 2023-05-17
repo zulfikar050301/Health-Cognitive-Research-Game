@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mainmenu.unity
+    guid: d88b4d08c5837ae48b335305bf3f07fd
+  - enabled: 1
+    path: Assets/Scenes/Tetris.unity
+    guid: 349ca868b2561114eb2ea13521ac1598
+  - enabled: 1
+    path: Assets/Scenes/Tetris2.unity
+    guid: d9d93bba9080ddb47988ca589127c77e
+  - enabled: 1
+    path: Assets/Scenes/Tetris3.unity
+    guid: ed8bcdc23ce6bdb42809d8bc0286d8fa
+  - enabled: 1
+    path: Assets/Scenes/Tetris4.unity
+    guid: a3799961f7d55cf41845b908c947a69e
+  - enabled: 1
+    path: Assets/Scenes/Tetris5.unity
+    guid: 92e634d11057bba4db44b835748d54cf
+  - enabled: 1
+    path: Assets/Scenes/Level.unity
+    guid: 2edd823151d729b4ba59d557c9fc0eb9
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: d2498218053869b4c8a00cdcf48e55d5
+  - enabled: 1
+    path: Assets/Scenes/Question.unity
+    guid: 2aa07ee0de55aa14992344b5586e1d48
+  - enabled: 1
+    path: Assets/Scenes/Puzzle.unity
+    guid: 8ae3ba935b7ba8d4f97babba4bf73019
+  - enabled: 1
+    path: Assets/Scenes/Puzzle 1.unity
+    guid: 3779523f0947bad4cb8f6931043d98a8
+  - enabled: 1
+    path: Assets/Scenes/Puzzle 2.unity
+    guid: fa8ed9123a92d4b4e8f41caf2eb556df
+  - enabled: 1
+    path: Assets/Scenes/Puzzle 3.unity
+    guid: 7da5eb7d171e1fe47835505ff947573a
+  - enabled: 1
+    path: Assets/Scenes/Puzzle 4.unity
+    guid: 5075ebbc2171e4d4682e6237a7622147
+  - enabled: 1
+    path: Assets/Scenes/Puzzle 5.unity
+    guid: 37c5390d9af7001488dae2115a1625e7
+  - enabled: 1
+    path: Assets/Scenes/Puzzle 6.unity
+    guid: 5c132fa17cf66b940b7faabf146665d6
+  - enabled: 1
+    path: Assets/Scenes/SampleFlip.unity
+    guid: ea188999a5036624091f977ee9f99daa
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: c8497128a890bd943a779f962ab28b28, type: 2}
